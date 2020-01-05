@@ -2441,9 +2441,9 @@ DT_TFPlayer
       m_hPasstimePassTarget : 0x3f8 (0x1bc4) [INT]
       m_askForBallTime : 0x3fc (0x1bc8) [FLOAT]
       m_bKingRuneBuffActive : 0x190 (0x195c) [INT]
-        _ST_m_ConditionData_128
-            _LPT_m_ConditionData_128
-              lengthprop128 : 0x0 (0x0) [INT]
+        _ST_m_ConditionData_129
+            _LPT_m_ConditionData_129
+              lengthprop129 : 0x0 (0x0) [INT]
           lengthproxy : 0x0 (0x0) [TABLE]
       m_ConditionData : 0x0 (0x17cc) [TABLE]
       m_nPlayerCondEx4 : 0xdc (0x18a8) [INT]
