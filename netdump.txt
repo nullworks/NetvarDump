@@ -31867,6 +31867,7 @@ DT_VoteController
       m_nModelIndexOverrides : 0x84 (0x84) [TABLE]
   baseclass : 0x0 (0x0) [TABLE]
   m_iActiveIssueIndex : 0x548 (0x548) [INT]
+  m_nVoteIdx : 0x570 (0x570) [INT]
   m_iOnlyTeamToVote : 0x54c (0x54c) [INT]
     m_nVoteOptionCount
   m_nVoteOptionCount : 0x550 (0x550) [TABLE]
