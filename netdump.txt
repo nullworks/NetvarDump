@@ -1,4 +1,4 @@
-DT_TETFParticleEffect
+ DT_TETFParticleEffect
     DT_BaseTempEntity
   baseclass : 0x0 (0x0) [TABLE]
   m_vecOrigin[0] : 0x10 (0x10) [FLOAT]
